@@ -5,5 +5,6 @@ public class _Test {
 		int a=10;
 		Long l=1L;
 		String s="abc";
+		int b=1;
 	}
 }
