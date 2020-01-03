@@ -7,5 +7,7 @@ public class _Test {
 		String s="abc";
 		int b=1;
 		System.out.println(a);
+		System.out.println(l);
+	
 	}
 }
