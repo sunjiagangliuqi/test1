@@ -6,5 +6,6 @@ public class _Test {
 		Long l=1L;
 		String s="abc";
 		int b=1;
+		System.out.println(a);
 	}
 }
